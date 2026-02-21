@@ -1,0 +1,43 @@
+id: '@PixelCat/PixelCat-pack'
+metadata:
+  displayName: "PixelCat-icons"
+  description: "Hi i am Pixel If you want a specific app go to this gitgud page https://github.com/16X16PixelCat-Studio/PixelCat-icon-pack"
+  appTargetVersion:
+    - 2
+    - 5
+    - 1
+entries:
+- type: custom
+  key: '@seelen/weg::start-menu'
+  icon:
+    base: start.png
+
+- type: unique
+  path: C:\Windows\explorer.exe
+  icon:
+    base: explorer.png
+
+- type: unique
+  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  icon:
+    base: firefox.png
+
+- type: unique
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  icon:
+    base: chrome.png
+
+- type: unique
+  path: D:\TagStudio\TagStudio.exe
+  icon:
+    base: tagstudio.png
+
+- type: unique
+  path: C:\Program Files\VideoLAN\VLC\vlc.exe
+  icon:
+    base: vlc.png
+
+- type: unique
+  path: C:\Program Files\WinRAR\WinRAR.exe
+  icon:
+    base: winrar.png
