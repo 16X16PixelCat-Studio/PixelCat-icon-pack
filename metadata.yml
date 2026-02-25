@@ -18,19 +18,30 @@ entries:
     base: explorer.png
 
 - type: unique
+  path: C:\Program Files\WindowsApps\Microsoft.4297127D64EC6_2.5.2.0_x64__8wekyb3d8bbwe\GameLaunchHelper.exe
+  icon:
+    base: mincraft.png
+
+- type: unique
+  path: C:\Program Files (x86)\Steam\Steam.exe
+  icon:
+    base: steam.png
+  
+- type: unique
+  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  icon:
+    base: chrome.png
+    
+- type: unique
+  umid: 308046B0AF4A39CB
   path: C:\Program Files\Mozilla Firefox\firefox.exe
   icon:
     base: firefox.png
 
 - type: unique
-  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  path: C:\Windows\System32\cmd.exe
   icon:
-    base: chrome.png
-
-- type: unique
-  path: D:\TagStudio\TagStudio.exe
-  icon:
-    base: tagstudio.png
+    base: terminal.png
 
 - type: unique
   path: C:\Program Files\VideoLAN\VLC\vlc.exe
@@ -41,3 +52,18 @@ entries:
   path: C:\Program Files\WinRAR\WinRAR.exe
   icon:
     base: winrar.png
+
+- type: unique
+  path: C:\Program Files\obs-studio\bin\64bit\obs64.exe
+  icon:
+    base: obs.png
+
+- type: unique
+  path: C:\Program Files\Everything\Everything.exe
+  icon:
+    base: everything.png
+
+- type: unique
+  path: D:\TagStudio\TagStudio.exe
+  icon:
+    base: tagstudio.png
