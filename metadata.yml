@@ -5,7 +5,7 @@ metadata:
   appTargetVersion:
     - 2
     - 5
-    - 1
+    - 2
 entries:
 - type: custom
   key: '@seelen/weg::start-menu'
@@ -13,57 +13,104 @@ entries:
     base: start.png
 
 - type: unique
-  path: C:\Windows\explorer.exe
+  path: seelen-ui.exe
+  icon:
+    base: seelen.png
+
+- type: unique
+  path: explorer.exe
   icon:
     base: explorer.png
 
 - type: unique
-  path: C:\Program Files\WindowsApps\Microsoft.4297127D64EC6_2.5.2.0_x64__8wekyb3d8bbwe\GameLaunchHelper.exe
+  umid: windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel
+  path: SystemSettings.exe
+  icon:
+    base: settings.png
+
+- type: unique
+  path: GameLaunchHelper.exe
   icon:
     base: mincraft.png
 
 - type: unique
-  path: C:\Program Files (x86)\Steam\Steam.exe
+  path: ModrinthApp.exe
+  icon:
+    base: modrinth.png
+
+- type: unique
+  path: CurseForge.exe
+  icon:
+    base: curseforge.png
+
+- type: unique
+  path: Steam.exe
   icon:
     base: steam.png
-  
+
 - type: unique
-  path: C:\Program Files\Google\Chrome\Application\chrome.exe
+  umid: Microsoft.VisualStudioCode
+  path: Code.exe
+  icon:
+    base: vscode.png
+
+- type: unique
+  path: pycharm64.exe
+  icon:
+    base: pycharm.png
+
+- type: unique
+  path: Obsidian.exe
+  icon:
+    base: obsidian.png
+
+- type: unique
+  path: Notion.exe
+  icon:
+    base: notion.png
+
+- type: unique
+  path: chrome.exe
   icon:
     base: chrome.png
     
 - type: unique
   umid: 308046B0AF4A39CB
-  path: C:\Program Files\Mozilla Firefox\firefox.exe
+  path: firefox.exe
   icon:
     base: firefox.png
 
 - type: unique
-  path: C:\Windows\System32\cmd.exe
+  path: cmd.exe
   icon:
     base: terminal.png
 
 - type: unique
-  path: C:\Program Files\VideoLAN\VLC\vlc.exe
+  path: vlc.exe
   icon:
     base: vlc.png
 
 - type: unique
-  path: C:\Program Files\WinRAR\WinRAR.exe
+  path: WinRAR.exe
   icon:
     base: winrar.png
 
 - type: unique
-  path: C:\Program Files\obs-studio\bin\64bit\obs64.exe
+  path: obs64.exe
   icon:
     base: obs.png
 
 - type: unique
-  path: C:\Program Files\Everything\Everything.exe
+  path: Everything.exe
   icon:
     base: everything.png
 
 - type: unique
-  path: D:\TagStudio\TagStudio.exe
+  path: TagStudio.exe
   icon:
     base: tagstudio.png
+
+- type: unique
+  path: WhatsApp.exe
+  icon:
+    base: whatsapp.png
