@@ -34,7 +34,7 @@ entries:
     base: mincraft.png
 
 - type: unique
-  path: ModrinthApp.exe
+  path: Modrinth App.exe
   icon:
     base: modrinth.png
 
