@@ -12,6 +12,11 @@ entries:
   icon:
     base: start.png
 
+- type: custom
+  key: '@seelen/weg::folder'
+  icon:
+    base: folder.png
+
 - type: unique
   path: seelen-ui.exe
   icon:
@@ -114,3 +119,20 @@ entries:
   path: WhatsApp.exe
   icon:
     base: whatsapp.png
+
+- type: unique
+  path: GitHubDesktop.exe
+  icon:
+    base: github.png
+
+- type: unique
+  umid: com.squirrel.GitHubDesktop.GitHubDesktop
+  path: GitHub Desktop.lnk
+  icon:
+    base: github.png
+
+- type: unique
+  umid: Canva.Affinity_8a0j1tnjnt4a4!Canva.Affinity
+  path: Affinity.exe
+  icon:
+    base: affinity.png

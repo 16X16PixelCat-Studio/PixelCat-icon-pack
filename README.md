@@ -12,38 +12,44 @@ All of my art in this repo is free for non-commercial use. Modification allowed,
 
 3. explorer
 
-4. seelen ui settings
+4. folder
 
 5. everything 
 
 6. VLC
 
-7. WinRAR
+7. seelen ui settings
 
-8. FireFox
+8. WinRAR
 
-9. Chrome
+9. FireFox
 
-10. minecraft
+10. Chrome
 
-11. Steam
+11. minecraft
 
-12. curseforge (standalope)
+12. Steam
 
-13. TagStudio
+13. curseforge (standalope)
 
-14. OBS
+14. TagStudio
 
-15. CMD
+15. OBS
 
-16. obsidian
+16. CMD
 
-17. vscode
+17. obsidian
 
-18. modrinth app
+18. vscode
 
-19. whatsapp
+19. modrinth app
 
 20. Pycharm
 
 21. notion
+
+22. whatsapp
+
+23. affinity
+
+24. gitguddescktop
