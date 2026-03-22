@@ -136,3 +136,8 @@ entries:
   path: Affinity.exe
   icon:
     base: affinity.png
+
+- type: unique
+  path: voicemeeterpro_x64.exe
+  icon:
+    base: voicemeeter.png
