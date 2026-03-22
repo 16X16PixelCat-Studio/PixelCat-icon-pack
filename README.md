@@ -53,3 +53,4 @@ All of my art in this repo is free for non-commercial use. Modification allowed,
 23. affinity
 
 24. gitguddescktop
+25. VoiceMeeter
